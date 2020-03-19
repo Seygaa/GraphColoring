@@ -1,4 +1,4 @@
-# GraphColoring
+# Graph Coloring
 An algorithm that colors the vertices of the graph with a maximum of 5 colors using 5-color theorem (very planar graph is 5-colorable).
 
 ## Input:
